@@ -1,1 +1,1 @@
-# flexSloth.github.io
+# flexsloth.github.io
